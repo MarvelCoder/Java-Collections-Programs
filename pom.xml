@@ -3,4 +3,24 @@
   <groupId>Java-Collections-Programs</groupId>
   <artifactId>Java-Collections-Programs</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <!--  
+  
+  <packaging>jar</packaging>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.1</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
+  
+  <build>
+  	<sourceDirectory>src/main/java</sourceDirectory>
+  	<testSourceDirectory>src/test/java</testSourceDirectory>
+  </build>
+  
+  -->
 </project>
